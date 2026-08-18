@@ -10,7 +10,7 @@ SolventFinder.py can be used to generate csv files listing binary mixtures as po
 
 RAG_Heatmap_Generator.py can be used to generate "clouds" of Red, Amber or Green binary mixtures of solvent in HSP space, similar to figures 10 and 11 in the paper.
 
-Circular_diagram_generator.py can be used to generate diagrams showing binary solvent mixture alternatives for screening as potential mixtures to solvate a given substrate, or replace a given solvent, using an input from the output of SolventFinder.py.
+Circular_diagram_generator.py can be used to generate diagrams showing binary solvent mixture alternatives for screening as potential mixtures to solvate a given substrate, or replace a given solvent, similar to figures 5-8 in the paper, using an input from the output of SolventFinder.py.
 
 The Paper and supporting code are published under CC-BY
 
